@@ -4,7 +4,7 @@
 
 RAM immer ausreichend
 HDD meisten Tuning Optionen
-CPU
+CPU meist sekundär
 
 
 Security
