@@ -58,7 +58,7 @@ notwendig ist eibn SMTP Server
 --man kann auch per TSQL Mails senden ;-)
 exec sp_sendDBmail [GMX-profile]
 
-Öfftl Profil  (mitlgied der Rolle msdb/DatabaseMailUserRole)
+Öfftl Profil  (Mitlgied der Rolle msdb/DatabaseMailUserRole)
 
 --der Operator bekommt aber noch keine Mail nach Abschluss eines Auftrags!
 
